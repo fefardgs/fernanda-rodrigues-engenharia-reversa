@@ -1,0 +1,25 @@
+{
+  "name": "fernanda-rodrigues-engenharia-reversa",
+  "version": "1.0.0",
+  "description": "\"# Oficina-AutoCerta\" \r # 2. Modelo Entidade-Relacionamento (DER)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fefardgs/fernanda-rodrigues-engenharia-reversa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fefardgs/fernanda-rodrigues-engenharia-reversa/issues"
+  },
+  "homepage": "https://github.com/fefardgs/fernanda-rodrigues-engenharia-reversa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
